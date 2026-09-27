@@ -1,0 +1,11 @@
+{
+  "org": "asimov-platform",
+  "repo": "asimov.sh",
+  "versions": [
+    {
+      "commit": "96acd5623340362715df766bbdac6a0093bc77a2",
+      "tag": "master",
+      "parsed_at": "2026-09-27T19:19:03.351231+00:00"
+    }
+  ]
+}
