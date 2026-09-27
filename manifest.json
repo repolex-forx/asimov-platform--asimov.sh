@@ -305,7 +305,9 @@
           "githubUrl": "git+https://github.com/vitejs/vite.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/96acd5623340362715df766bbdac6a0093bc77a2/chunk-001.nq.gz",
+      "dep": "dep/96acd5623340362715df766bbdac6a0093bc77a2.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
